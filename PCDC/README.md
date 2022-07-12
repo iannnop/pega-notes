@@ -1,5 +1,7 @@
 # Pega Decisioning Consultant 8.7
 
+Pega Customer Decision Hub
+
 ## Table of Contents
 
 1. [Next-Best-Action concepts](#next-best-action-concepts)
@@ -12,6 +14,13 @@
 1. [Business agility for 1:1 customer engagement](#business-agility-for-11-customer-engagement)
 
 ## Next-Best-Action concepts
+
+Main topics
+
+- One-to-one customer engagement
+- Optimize the customer value in the contact center
+- Essentials of always-on outbound
+- Define the starting population
 
 ## Actions and treatments
 
