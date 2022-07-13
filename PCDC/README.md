@@ -15,12 +15,24 @@ Pega Customer Decision Hub
 
 ## Next-Best-Action concepts
 
-Main topics
+### Main topics
 
-- One-to-one customer engagement
+- [One-to-one customer engagement](##one-to-one-customer-engagement)
 - Optimize the customer value in the contact center
 - Essentials of always-on outbound
 - Define the starting population
+
+### I. One-to-one customer engagement
+
+Customers want to buy products, use services, and have a great experience. As a business, you need to take the right action at every "customer touch" so that each conversation or interaction delivers the right message, offer, and level of service.
+
+Pega uses Artificial Intelligence (AI) to drive real-time decisions that deliver user engagement on any channel — Call center, Mobile, Web, etc. Pega calls this their **Omni-channel AI**. When actions are available and consistent in multiple portals, it ensures that the level of service is also consistent.
+
+The AI delivers the right action at every customer touch by using millions of data points in real-time so that the business can make an offer, initiate a retention plan, or predict a problem before it happens. Every decision by the employee or CSR generates the **next-best-action** for the customer and the business.
+
+Pega AI connects to streams like mobile locations or network events to detect patterns and drive the Next Best Action proactively. Any change in **customer context** — a click, reply, location change, etc — will trigger the Next Best Action so that you can listen to the customer and act accordingly.
+
+### One-to-one customer engagement
 
 ## Actions and treatments
 
