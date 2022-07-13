@@ -34,6 +34,18 @@ The AI delivers the right action at every customer touch by using millions of da
 
 Pega AI connects to streams like mobile locations or network events to detect patterns and drive the Next Best Action proactively. Any change in **customer context** — a click, reply, location change, etc — will trigger the Next Best Action so that you can listen to the customer and act accordingly.
 
+You can use the **Next-Best-Action** designer to create a next-best-action strategy for your business. There are five main components to a strategy:
+
+1. Taxonomy
+1. Constraints
+1. Engagement policy
+1. Arbitration
+1. Channels
+
+![](taxonomy.png)
+
+- **Taxonomy** - the "business structure" or hierarchy of *Business Issues* and *Groups* to which an action belongs. A **Business Issue** is the purpose behind the action offered to the customer (Retention for keeping customers, Acquisition for gaining customers). A **Business Group** is used to organize customer actions into categories (Under acquisition, groups can be made to organize credit cards with the intent of gaining new customers, something like a *new member credit card*).
+
 ## Actions and treatments
 
 ## Engagement policies
