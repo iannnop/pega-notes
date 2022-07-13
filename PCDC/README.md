@@ -52,6 +52,16 @@ You can use the **Next-Best-Action** designer to create a next-best-action strat
 
 - **Taxonomy** - the "business structure" or hierarchy of *Business Issues* and *Groups* to which an action belongs. A **Business Issue** is the purpose behind the action offered to the customer (Retention for keeping customers, Acquisition for gaining customers). A **Business Group** is used to organize customer actions into categories (Under acquisition, groups can be made to organize credit cards with the intent of gaining new customers, something like a *new member credit card*).
 
+### Optimize the customer value in the contact center
+
+![](saracall.png)
+
+When a call comes in to the contact center, it gets immediately routed to a service representative, and Next-Best-Action guides the representative through the call with Sara.
+
+![](saradetails.png)
+
+In the lower left of the screen, Pega's AI recommends a list of Next-Best-Actions to the agent, so that the service representative can use the "always-on" centralized decisioning "brain" to guide them through the call. 
+
 ## Actions and treatments
 
 ## Engagement policies
