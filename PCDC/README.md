@@ -48,9 +48,9 @@ You can use the **Next-Best-Action** designer to create a next-best-action strat
 1. Arbitration
 1. Channels
 
-![](taxonomy.png)
+<!-- ![](taxonomy.png)
 
-- **Taxonomy** - the "business structure" or hierarchy of *Business Issues* and *Groups* to which an action belongs. A **Business Issue** is the purpose behind the action offered to the customer (Retention for keeping customers, Acquisition for gaining customers). A **Business Group** is used to organize customer actions into categories (Under acquisition, groups can be made to organize credit cards with the intent of gaining new customers, something like a *new member credit card*).
+- **Taxonomy** - the "business structure" or hierarchy of *Business Issues* and *Groups* to which an action belongs. A **Business Issue** is the purpose behind the action offered to the customer (Retention for keeping customers, Acquisition for gaining customers). A **Business Group** is used to organize customer actions into categories (Under acquisition, groups can be made to organize credit cards with the intent of gaining new customers, something like a *new member credit card*). -->
 
 ### Optimize the customer value in the contact center
 
