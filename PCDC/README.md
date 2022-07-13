@@ -64,6 +64,12 @@ In the lower left of the screen, Pega's AI recommends a list of Next-Best-Action
 
 ## Actions and treatments
 
+### Main topics
+
+- Define and manage customer actions
+- Present a single offer on the web
+- Define an action for outbound
+
 ## Engagement policies
 
 ## Contact policy and volume constraints
