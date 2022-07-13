@@ -22,7 +22,7 @@ Pega Customer Decision Hub
 - Essentials of always-on outbound
 - Define the starting population
 
-### I. One-to-one customer engagement
+### One-to-one customer engagement
 
 Customers want to buy products, use services, and have a great experience. As a business, you need to take the right action at every "customer touch" so that each conversation or interaction delivers the right message, offer, and level of service.
 
@@ -31,8 +31,6 @@ Pega uses Artificial Intelligence (AI) to drive real-time decisions that deliver
 The AI delivers the right action at every customer touch by using millions of data points in real-time so that the business can make an offer, initiate a retention plan, or predict a problem before it happens. Every decision by the employee or CSR generates the **next-best-action** for the customer and the business.
 
 Pega AI connects to streams like mobile locations or network events to detect patterns and drive the Next Best Action proactively. Any change in **customer context** — a click, reply, location change, etc — will trigger the Next Best Action so that you can listen to the customer and act accordingly.
-
-### One-to-one customer engagement
 
 ## Actions and treatments
 
