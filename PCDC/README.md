@@ -2,6 +2,12 @@
 
 Pega Customer Decision Hub
 
+These notes are paraphrased from the official Pega Academy to help me study for the exam. Some phrasing might be unclear/ambiguous.
+
+[Official Pega Academy Decisioning Consultant Mission (8.7)](https://academy.pega.com/mission/decisioning-consultant/v4)
+
+[Pega Decisioning Consultant Certification Exam (8.7)](https://academy.pega.com/exam/pega-certified-decisioning-consultant-3)
+
 ## Table of Contents
 
 1. [Next-Best-Action concepts](#next-best-action-concepts)
