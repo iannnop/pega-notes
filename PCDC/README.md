@@ -70,6 +70,28 @@ In the lower left of the screen, Pega's AI recommends a list of Next-Best-Action
 - Present a single offer on the web
 - Define an action for outbound
 
+
+### Define and manage customer actions
+
+An **action** is a next-best-action recommendation which can take many forms. Some examples include a banner advertisement, a retention offer, or a service message.
+
+Every customer action has properties that define its characteristics:
+- Short title
+- Price
+- Benefit
+
+In Pega Customer Decision Hub, customer actions are organized into a three-level hierarchy called the **Action hierarchy**
+
+![](actionhierarchy.png)
+
+1. Business Issue represents the applicable business area of the action (Sales, Retention, Service)
+1. A Group organizes actions into logical buckets (Credit cards, Morgages)
+1. An Action is the specific offering that is prepared for the customer (Reward card, 30-year fixed rate)
+
+Example:
+![](businessstructure.png)
+
+
 ## Engagement policies
 
 ## Contact policy and volume constraints
