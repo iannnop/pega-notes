@@ -17,7 +17,7 @@ Pega Customer Decision Hub
 
 ### Main topics
 
-- [One-to-one customer engagement](##one-to-one-customer-engagement)
+- One-to-one customer engagement
 - Optimize the customer value in the contact center
 - Essentials of always-on outbound
 - Define the starting population
