@@ -24,6 +24,8 @@ Pega Customer Decision Hub
 
 ### One-to-one customer engagement
 
+![](customerengagement.png)
+
 Customers want to buy products, use services, and have a great experience. As a business, you need to take the right action at every "customer touch" so that each conversation or interaction delivers the right message, offer, and level of service.
 
 Pega uses Artificial Intelligence (AI) to drive real-time decisions that deliver user engagement on any channel — Call center, Mobile, Web, etc. Pega calls this their **Omni-channel AI**. When actions are available and consistent in multiple portals, it ensures that the level of service is also consistent.
